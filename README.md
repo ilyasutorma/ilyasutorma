@@ -13,20 +13,9 @@
 <br/>
 
 ## ⚡ About
+Role: System Engineer ,DevOps
+Goal: systems programming, firmware engineering
 
-```rust
-struct Ilya {
-    role:    &'static [&'static str],
-    focus:   &'static [&'static str],
-    goal:    &'static str,
-}
-
-const ME: Ilya = Ilya {
-    role:  &["System Engineer", "DevOps"],
-    focus: &["operating systems", "bare-metal", "automation", "infrastructure"],
-    goal:  "systems programming & firmware engineering",
-};
-```
 
 - 🧬 Write operating system kernels and low-level code, from the bootloader to drivers
 - 🐧 Build and automate Linux infrastructure, containers and delivery pipelines
