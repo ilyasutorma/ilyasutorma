@@ -13,7 +13,8 @@
 <br/>
 
 ## ⚡ About
-Role: System Engineer ,DevOps
+Role: System Engineer ,DevOps.  
+
 Goal: systems programming, firmware engineering
 
 
@@ -74,8 +75,8 @@ Goal: systems programming, firmware engineering
 
 <div align="center">
 
-<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/@sciofuturum"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:Ilya.Sutorma-rumicos@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
